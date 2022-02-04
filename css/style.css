@@ -1,0 +1,67 @@
+.imeg{
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+span{
+    color: orangered;
+}
+.nav{
+    margin-left: 150px;
+    font-size: 20px;
+}
+.nav-link{
+    border: solid 1px blue;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    margin-left: 10px;
+}
+.nav-link:hover{
+border-radius: 20px 5px;
+color: blue;
+background-color: white;
+}
+header{
+    background-color: rgb(32, 32, 148);
+}
+.about{
+    margin-top: 50px;
+    background-image: url(../lab-g54962ea05_1920.jpg);
+    background-repeat: no-repeat;    background-position: center;
+    min-height: 100vh;
+background-attachment: fixed;
+    background-size: cover;
+}
+
+.lor{
+    margin-left: 480px;
+    color: red;
+    font-size: 2rem;
+}
+.lore{
+    font-size: 1.3rem;
+    line-height: 1.4;
+
+}
+
+.intro{
+      
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.intro:hover{
+  border-radius: 20px 5px;
+  color: blue;
+}
+footer{
+    height: 80px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.social{
+    margin-left: 40px;
+    padding-left: 20px;
+    font-size: 20px;
+}
